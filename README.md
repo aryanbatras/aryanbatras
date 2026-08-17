@@ -2,354 +2,320 @@
 
 # Aryan Batra
 
-### Systems-focused Software Engineer · Backend · Distributed Systems · Developer Tools
+**Systems-focused Software Engineer · Backend Infrastructure · Distributed Systems · Developer Tools**
 
-<p>
-  <a href="https://aryanbatra.is-a.dev">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/aryanbatra/">LinkedIn</a> •
-  <a href="https://leetcode.com/aryanbatra/">LeetCode</a> •
-  <a href="https://github.com/aryanbatras">GitHub</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=aryanbatras&style=flat-square&color=blue" alt="Profile views"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-aryanbatra.is--a.dev-111111?style=flat-square&logo=vercel&logoColor=white)](https://aryanbatra.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Batra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanbatra/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-aryanbatra-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/aryanbatra/)
+[![Email](https://img.shields.io/badge/Email-batraaryan03%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:batraaryan03@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About Me
+## GitHub Activity
 
-I'm Aryan, a systems-focused software engineer interested in building software from the foundations upward — from algorithms, concurrency and graphics to backend infrastructure, distributed systems and developer tooling.
+<div align="center">
 
-I enjoy understanding how things work underneath the abstraction and then turning that understanding into software people can actually use.
+<br><br>
 
-Currently, I'm building **100xsystems**, an open EdTech ecosystem focused on deep systems engineering, while continuing to work on developer tools, web applications, distributed systems and experimental software.
+<img src="https://streak-stats.demolab.com?user=aryanbatras&hide_border=true" alt="Aryan Batra's GitHub contribution streak">
 
-- 🎓 B.Tech Computer Science — MBS College of Engineering & Technology, 2023–2027
-- 🏗️ Founder & Lead Systems Engineer at [100xsystems](https://100xsystems.dev)
-- 📚 Founder of [JU Learning](https://julearning.com)
-- 💼 Software engineering experience across backend, cloud, automation and full-stack development
-- 🧠 Interested in system design, concurrency, data structures, clean architecture and distributed systems
-- 🔭 Currently building software around education, developer tooling and systems engineering
+<br><br>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbatras&hide_border=true&area=true" alt="Aryan Batra's GitHub contribution activity graph">
 
-## ⚙️ What I Build
-
-```text
-        ┌─────────────────────────────────────────┐
-        │              SOFTWARE SYSTEMS            │
-        └────────────────────┬────────────────────┘
-                             │
-          ┌──────────────────┼──────────────────┐
-          ▼                  ▼                  ▼
-     Backend & Cloud      Developer Tools      Web / AI
-          │                  │                  │
-     Spring Boot         Node.js / CLI       Next.js
-     Microservices       Testing Tools       React
-     AWS / Docker        Automation          LLMs
-     PostgreSQL          CI/CD               Browser AI
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             ▼
-                  Clean Architecture
-                  System Design
-                  Distributed Systems
-```
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## About
+
+I'm a systems-focused software engineer with a deep interest in backend infrastructure, clean architecture and distributed microservices.
+
+My engineering path started with low-level graphics, algorithms and concurrency, and gradually expanded into production backend systems, cloud architecture, automation, developer tooling and AI-enabled applications.
+
+I care more about understanding the system than the framework sitting on top of it.
+
+Currently:
+
+- 🏗️ Building [100xsystems](https://100xsystems.dev)
+- 🎓 Building [JU Learning](https://julearning.com)
+- 💻 Looking for SDE / Software Engineering opportunities
+- 🧠 Going deeper into system design, distributed systems, cloud infrastructure.
+
+---
+
+## Technology
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,c,cpp,python,bash" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,c,cpp,python,bash,kotlin,html,css&perline=10" alt="Java, TypeScript, JavaScript, C, C++, Python, Bash, Kotlin, HTML and CSS">
 </p>
 
-`Java` · `TypeScript` · `JavaScript` · `C` · `C++` · `Python` · `SQL` · `Bash`
+| Language | Areas |
+|---|---|
+| ☕ Java | Spring Boot, concurrency, backend systems, graphics |
+| 🔷 TypeScript | Next.js, React, Node.js, application architecture |
+| 🟨 JavaScript | ES6+, frontend, browser APIs, Node.js |
+| ©️ C / C++ | C compiler, systems and graphics coursework |
+| 🐍 Python | Automation, AI/ML, scripting |
+| 🐚 Bash | Linux, automation and DevOps |
+| 🟣 Kotlin | Android development |
+| 🌐 HTML / CSS | Web fundamentals and UI engineering |
+| 🗄️ SQL | PostgreSQL, MySQL, relational database design |
 
-### Backend & Infrastructure
+### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,aws,docker,kubernetes,jenkins,nginx" alt="Backend and infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Spring Boot, Node.js and Express">
 </p>
 
-`Spring Boot` · `Node.js` · `Microservices` · `AWS` · `Docker` · `Kubernetes` · `CI/CD`
+`Spring Boot` · `Node.js` · `Microservices` · `REST APIs` · `Hibernate` · `JPA` · `Supabase` · `JWT` · `Transactions` · `OpenAPI / Swagger`
 
-### Databases & Observability
+### Cloud, DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,grafana,prometheus" alt="Databases and observability"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,cloudflare,nginx,linux" alt="AWS, Docker, Kubernetes, Jenkins, Cloudflare, Nginx and Linux">
 </p>
 
-`PostgreSQL` · `MySQL` · `Redis` · `Turso DB` · `Prometheus` · `Grafana` · `Loki`
+`AWS EC2` · `AWS S3` · `AWS SQS` · `Docker` · `Kubernetes` · `Jenkins` · `CI/CD` · `Flyway` · `Cloudflare Workers` · `Linux`
 
-### Frontend
+### Databases & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL, MySQL and Redis">
 </p>
 
-`Next.js` · `React.js` · `Tailwind CSS` · `Three.js`
+`PostgreSQL` · `Turso DB` · `MySQL` · `Redis` · `Relational Database Design` · `Database Management` · `Static JSON Data Architecture`
 
-### AI / ML
+### Frontend & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI and machine learning"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,vite" alt="Next.js, React, Tailwind CSS, Three.js and Vite">
 </p>
 
-`LLMs` · `RAG` · `Hugging Face` · `Model Fine-Tuning` · `Groq` · `Mistral AI`
+`Next.js` · `React.js` · `Tailwind CSS` · `Three.js` · `React Three Fiber` · `SolidJS` · `GSAP` · `Mermaid.js`
 
-### Other Tools
+### Mobile
 
-`Hibernate` · `Flyway` · `n8n` · `FFmpeg` · `JUnit 5` · `Vitest` · `OpenAPI / Swagger` · `Mermaid.js` · `GSAP`
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" alt="Android Studio, Flutter and Dart">
+</p>
 
----
+`Android` · `Jetpack Compose` · `React Native` · `Flutter` · `Dart`
 
-## 📊 GitHub
+### AI / Machine Learning
 
-<div align="center">
+`LLMs` · `RAG` · `Hugging Face` · `Model Fine-Tuning` · `Groq` · `Mistral AI` · `ONNX Runtime Web`
 
-<a href="https://github.com/aryanbatras">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aryanbatras&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Aryan's GitHub statistics"/>
-</a>
-<a href="https://github.com/aryanbatras">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbatras&layout=compact&hide_border=true&langs_count=10" alt="Aryan's most used languages"/>
-</a>
+### Tooling, Testing & Observability
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cmake,github,git" alt="CMake, GitHub and Git">
+</p>
 
-<img src="https://streak-stats.demolab.com?user=aryanbatras&hide_border=true" alt="GitHub contribution streak"/>
+`Git` · `GitHub` · `CMake` · `FFmpeg` · `n8n` · `JUnit 5` · `Vitest` · `Prometheus` · `Grafana` · `Loki` · `Storybook` · `Chromatic`
 
-<br/>
+### Core Computer Science
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbatras&hide_border=true&area=true" alt="GitHub activity graph"/>
-
-</div>
+`System Design` · `Data Structures & Algorithms` · `Operating Systems` · `Computer Networks` · `Concurrency` · `Clean Architecture` · `Distributed Systems`
 
 ---
 
-## 🚀 Featured Projects
+## Selected Work
 
-### 🏗️ 100xsystems
+### [100xsystems](https://100xsystems.dev)
 
-**An open EdTech ecosystem focused on deep systems engineering.**
+**Open EdTech ecosystem for deep systems engineering.**
 
-Architected an education platform for developers, including scalable CLI tooling, React CMS solutions, dynamic content feeds and automated testing infrastructure.
+- Synthesizing engineering resources into curated learning paths for AI/ML and Systems Engineering.
+- Building custom CLI tools with Ink and Pastel.
+- Developing CMS solutions with React Quill.
+- Aggregating live content from Hacker News, GitHub, Stack Overflow, NPM, dev.to, Medium, Reddit, Wikipedia, YC Companies and Product Hunt.
+- Building automated feed generators and test suites using Vitest and JUnit 5.
 
-**Built with:** `Node.js` · `React` · `Vitest` · `JUnit 5` · `CLI Tooling` · `Clean Architecture`
+**Stack:** `Node.js` · `React` · `Ink` · `Pastel` · `Vitest` · `JUnit 5`
 
-🔗 [100xsystems.dev](https://100xsystems.dev) · [GitHub Organization](https://github.com/100xsystems)
-
----
-
-### 🎓 JU Learning
-
-**A zero-cost educational platform serving university students.**
-
-Built around a static-data architecture with more than 1,400 resources serving 500+ students, together with a GitHub-based contribution and CI/CD workflow.
-
-**Built with:** `React` · `Supabase` · `GitHub CI/CD`
-
-🔗 [julearning.com](https://julearning.com) · [GitHub](https://github.com/julearning)
+→ [Website](https://100xsystems.dev) · [GitHub Organization](https://github.com/100xsystems)
 
 ---
 
-### 🌹 Rose Social Media
+### [JU Learning](https://julearning.com)
 
-**An Instagram-inspired social client built on the Bluesky AT Protocol.**
+**Open-source academic resource platform for Jammu University students.**
 
-A decentralized web client featuring multiple feeds, custom filtering and an Instagram-style interface, communicating with PDSs and relays through the AT Protocol.
+- `1,400+` academic resources
+- `500+` students
+- Static meta-JSON architecture instead of a traditional database
+- GitHub CI/CD contribution pipeline
+- Automated PR generation
+- Decentralized dead-link reporting through GitHub Issues
 
-**Built with:** `Next.js` · `TypeScript` · `AT Protocol` · `Bluesky`
+**Stack:** `React` · `Supabase` · `GitHub Actions` · `JSON`
 
-🔗 [Live Demo](https://rose-six-neon.vercel.app/) · [GitHub](https://github.com/aryanbatras/rose)
-
----
-
-### ⚡ StartX
-
-**Validate your startup idea with AI.**
-
-An AI validation platform routing requests across multiple LLM providers, backed by Turso and integrated with payments, dynamic diagrams and product analytics.
-
-**Built with:** `Next.js` · `Turso` · `Groq` · `Mistral AI` · `Mermaid.js` · `GSAP`
-
-🔗 [Live Demo](https://startx-zeta.vercel.app/)
+→ [Website](https://julearning.com) · [GitHub](https://github.com/julearning)
 
 ---
 
-### 🧊 DSA-IN-3D
+### [Rose Social Media](https://rose-six-neon.vercel.app/)
 
-**3D data structure and algorithm visualization in pure Java.**
+**Instagram-inspired decentralized social client built on the AT Protocol.**
 
-Built a multithreaded 3D ray-tracing engine from scratch and used it as the foundation for interactive algorithm visualizations.
+- Multiple feed streams
+- Built-in filtering
+- AT Protocol lexicons and identities
+- Direct interaction with Personal Data Servers and relays
+- Decentralized application state
 
-**Highlights:** `3,500+ LOC` · `12+ visualizations` · `Multithreading` · `Ray Tracing` · `FFmpeg`
+**Stack:** `Next.js` · `TypeScript` · `AT Protocol` · `Bluesky`
 
-🔗 [GitHub](https://github.com/aryanbatras/DSA-IN-3D) · [Trailer](https://www.youtube.com/watch?v=PxCY7eM119E)
-
----
-
-### 🔬 JavaReflect 3D Engine
-
-**A 3D interactive ray-tracing engine built from scratch in Java.**
-
-A learning-oriented rendering engine featuring procedural scenes, realistic rendering, object interaction, camera control and multithreaded performance — without relying on a third-party game engine.
-
-🔗 [GitHub](https://github.com/aryanbatras/JavaReflect-3D-Engine)
+→ [Live Demo](https://rose-six-neon.vercel.app/) · [GitHub](https://github.com/aryanbatras/rose)
 
 ---
 
-## 🧪 Other Things I've Built
+### [StartX](https://startx-zeta.vercel.app/)
 
-| Project | What it is | Stack |
+**AI platform for validating startup ideas.**
+
+- Multi-provider LLM routing
+- Low-latency Turso Cloud database
+- Instamojo payment integration
+- Mermaid.js visual diagrams
+- GSAP-powered interactions
+
+**Stack:** `Next.js` · `Turso` · `Groq` · `Mistral AI` · `Mermaid.js` · `GSAP`
+
+→ [Live Demo](https://startx-zeta.vercel.app/)
+
+---
+
+### [DSA-IN-3D](https://github.com/aryanbatras/DSA-IN-3D)
+
+**3D data-structure and algorithm visualizer built from scratch in Java.**
+
+- `3,500+` lines of Java
+- Multithreaded 3D ray tracing
+- `12+` algorithmic visualizations
+- Fluent `.with()` builder API
+- FFmpeg animation generation
+- Built during a 14-day sprint
+
+→ [Source](https://github.com/aryanbatras/DSA-IN-3D) · [Trailer](https://www.youtube.com/watch?v=PxCY7eM119E)
+
+---
+
+### [JavaReflect 3D Engine](https://github.com/aryanbatras/JavaReflect-3D-Engine)
+
+A 3D interactive ray-tracing engine written from scratch in Java, exploring realistic rendering, procedural scenes, object interaction, camera control and multithreaded performance.
+
+→ [Source](https://github.com/aryanbatras/JavaReflect-3D-Engine)
+
+---
+
+## More Projects
+
+| Project | Description | Technology |
 |---|---|---|
-| 🎮 [College Girl RPG](https://college-girl-rpg-game.vercel.app/) | RPG game built from scratch | Next.js · AI |
-| 🧠 [Browser AI](https://browser-ai-dun.vercel.app/) | Client-side AI tools using ONNX Runtime Web | Next.js · JavaScript · ONNX |
-| 📄 [Browser Tools](https://100xsystems-tools.vercel.app/) | Private browser-based file utilities | Next.js · JavaScript |
-| 🎨 [Signal UI](https://aryanbatras.github.io/signal-ui/) | Minimalist component system | React · Tailwind |
-| 🖥️ [Turbo C++ Graphics](https://turboc-graphics.vercel.app/) | Turbo C++ environment running in the browser | Next.js · TypeScript |
-| 💻 [JS Homepage](https://aryanbatras.github.io/js-homepage/) | Interactive JavaScript / React learning platform | React · JavaScript |
-| 🎹 [Online Piano](https://online-piano-two.vercel.app/) | Keyboard-controlled browser piano | Next.js · FFmpeg |
-| 📺 [StudyFlow](https://aryanbatras.github.io/study-stream-youtube/) | Open-source study-stream platform | Solid.js |
-| 📅 [Calendar](https://my-calender-gray.vercel.app/) | Pixel-perfect advanced calendar UI | Tailwind CSS |
-| 📝 [C Compiler](https://github.com/aryanbatras/c-compiler) | Educational C compiler | C · CMake |
-| 📖 [The Book of Rose](https://bookofrose.vercel.app/) | Website for my philosophical book | Next.js |
+| [College Girl RPG](https://college-girl-rpg-game.vercel.app/) | RPG game built from scratch | Next.js · AI |
+| [Browser AI](https://browser-ai-dun.vercel.app/) | Client-side AI tools using ONNX Runtime Web | Next.js · JavaScript · ONNX |
+| [Browser Tools](https://100xsystems-tools.vercel.app/) | Private browser-based file utilities | Next.js · JavaScript |
+| [Signal UI](https://aryanbatras.github.io/signal-ui/) | Minimalist component library | React · Tailwind |
+| [Turbo C++ Graphics](https://turboc-graphics.vercel.app/) | Turbo C++ environment in the browser | Next.js · TypeScript |
+| [JS Homepage](https://aryanbatras.github.io/js-homepage/) | Interactive JavaScript / React learning platform | React · JavaScript |
+| [Online Piano](https://online-piano-two.vercel.app/) | Keyboard-controlled browser piano | Next.js · FFmpeg |
+| [StudyFlow](https://aryanbatras.github.io/study-stream-youtube/) | Open-source study-stream platform | SolidJS |
+| [Calendar](https://my-calender-gray.vercel.app/) | Advanced calendar interface | Tailwind CSS |
+| [C Compiler](https://github.com/aryanbatras/c-compiler) | Educational compiler with lexer, parser and semantic analysis | C · CMake |
+| [The Book of Rose](https://bookofrose.vercel.app/) | Website for my self-published philosophical book | Next.js |
+
+<details>
+<summary><strong>📦 Other repositories</strong></summary>
+
+<br>
+
+See all public work on [github.com/aryanbatras](https://github.com/aryanbatras).
+
+</details>
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Software Engineer Intern — A2B Digital Solutions
-`May 2026 – Jul 2026`
+### A2B Digital Solutions — Software Engineer Intern
+`May 2026 – Jul 2026` · Remote
 
-- Built an enterprise administration system for complex admin, customer and vendor workflows.
-- Developed production microservices using Spring Boot, Hibernate and PostgreSQL with Flyway.
-- Reduced PDF-generation cost by more than **80%** through optimization.
-- Built an AI-native frontend workflow that reduced design costs by approximately **90%**.
+- Constructed an enterprise administration system handling complex workflows across admins, customers and vendors.
+- Implemented an AI-native frontend workflow that reduced design costs by `90%`.
+- Engineered production-grade microservices using Spring Boot, Hibernate and PostgreSQL with Flyway migrations.
+- Optimized PDF-generation pipelines with OpenHtmlToPdf, reducing processing overhead by `>80%`.
+- Configured observability with Prometheus, Grafana and Loki.
 
-### Software Engineer Intern — Sashel
-`Jul 2025 – Oct 2025`
+### CodeVeda — Technical Writer
+`Nov 2025 – Dec 2025` · Remote
 
-- Worked on AWS architecture and designed a large relational database schema from scratch.
-- Deployed **4 production microservices**.
-- Built **7 automation systems** using n8n.
-- Integrated Shiprocket and Razorpay payment escrow workflows.
+- Authored a `240-page` Spring Boot curriculum covering REST APIs, Transactions, Redis, JWT and AWS.
+- Designed a GenAI curriculum focused on Hugging Face, LLMs and model fine-tuning.
 
-### Technical Writer — CodeVeda
-`Nov 2025 – Dec 2025`
+### Polarions — Automation Engineer
+`Oct 2025 – Nov 2025` · Sweden · Remote
 
-- Authored a **240-page Spring Boot curriculum** covering REST APIs, Redis and AWS.
-- Worked on GenAI curriculum covering LLMs.
+- Mentored `4` junior interns in n8n automation.
+- Engineered a social-media distribution system using n8n, Meta API, Google Workspace, image-generation APIs and Cloudflare Workers.
 
-### Automation Engineer — Polarions
-`Oct 2025 – Nov 2025`
+### Sashel — Software Engineer Intern
+`Jul 2025 – Oct 2025` · Remote
 
-- Designed a social-media distribution system using n8n, Meta API and Cloudflare Workers.
-
----
-
-## 🗺️ Engineering Journey
-
-```text
-2024
- │
- ├── Java 3D Ray Tracing
- │
- └── DSA-IN-3D
-          │
-          ▼
-2025
- │
- ├── Backend Engineering
- ├── AWS & Microservices
- ├── Automation Systems
- ├── Technical Writing
- └── JU Learning
-          │
-          ▼
-2026
- │
- ├── Production Microservices
- ├── StartX
- ├── 100xsystems
- ├── Browser AI
- ├── Developer Tools
- └── Rose / AT Protocol
-          │
-          ▼
-   Systems Engineering
-```
+- Collaborated on AWS architecture and designed a large relational database schema.
+- Deployed `4` production microservices from scratch.
+- Built `7` automation systems with n8n.
+- Integrated Shiprocket for automated deliveries and Razorpay for 14-day payment escrows with automated refunds.
 
 ---
 
-## 📈 By the Numbers
+## Education
 
-<div align="center">
+**MBS College of Engineering & Technology**  
+Bachelor of Technology — Computer Science · `2023 – 2027` · `8.2 / 10.0 CGPA`
 
-| Metric | Value |
-|:---:|:---:|
-| 🧑‍💻 GitHub Contributions | **2,152+** |
-| 📦 Repositories | **90+** |
-| 🎓 JU Learning Resources | **1,400+** |
-| 👨‍🎓 Students Served | **500+** |
-| ☕ Java Ray-Tracing LOC | **3,500+** |
-| 🧩 Algorithm Visualizations | **12+** |
-| ⚙️ Production Microservices | **4+** |
-| 🤖 Automation Systems | **7** |
-| 📚 Curriculum Authored | **240 pages** |
+**Little Flower Higher Secondary School**  
+Higher Secondary · `83%` · `2020 – 2022`
 
-</div>
+**St. Paul's Convent High School**  
+Secondary School · `82%` · `2006 – 2020`
 
 ---
 
-## 🧠 Currently
+## 📌 Engineering Snapshot
 
-```text
-Building      → 100xsystems
-Learning      → System Design · Distributed Systems · Cloud
-Exploring     → Developer Infrastructure · AI-native tooling
-Interested in → Backend · Platform Engineering · SDE Roles
-```
-
----
-
-## 🏆 Certifications & Leadership
-
-- 📜 **DevOps for Beginners: Docker, K8s, Cloud, CI/CD & 4 Projects** — Udemy, 2025
-- 📖 **Author — The Book of Rose**
-- 👨‍🏫 **Peer Mentor — College Coding Club**
-- 🤝 Mentored a **50+ member** technical community
+| | |
+|---|---|
+| 🧑‍💻 GitHub | `93 repositories` · `2,152 contributions` |
+| 🧩 JU Learning | `1,400+ resources` · `500+ students` |
+| ⚙️ Microservices | `4 production services` |
+| 🔁 Automation | `7 systems` |
+| 📚 Writing | `240-page Spring Boot curriculum` |
+| 🎮 Java Graphics | `3,500+ LOC` · `12+ visualizations` |
+| 🏫 Community | `50+ member` college coding community |
+| 🧮 LeetCode | `1454` contest rating · Top `60%` |
 
 ---
 
-## 📫 Connect
+## 📜 Certifications & Leadership
 
-<div align="center">
-
-<a href="https://aryanbatra.is-a.dev">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/aryanbatra/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/aryanbatra/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="mailto:batraaryan03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
+- **DevOps for Beginners: Docker, K8s, Cloud, CI/CD & 4 Projects** — Udemy, September 2025
+- **Author — The Book of Rose** — June 2024
+- **Peer Mentor — College Coding Club** — Mentored and supported a `50+ member` technical community
 
 ---
 
 <div align="center">
 
-### "Build things. Understand them. Then build them better."
+### Build. Understand. Improve.
 
-<sub>© Aryan Batra</sub>
+[![GitHub](https://img.shields.io/badge/GitHub-aryanbatras-181717?style=flat-square&logo=github)](https://github.com/aryanbatras)
+[![Portfolio](https://img.shields.io/badge/Web-aryanbatra.is--a.dev-111111?style=flat-square&logo=vercel&logoColor=white)](https://aryanbatra.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Batra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanbatra/)
 
 </div>
